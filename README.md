@@ -1,13 +1,9 @@
-### plaid-node quickstart
-
-[Quickstart guide](https://plaid.com/docs/quickstart)
+### Personal Finance
 
 ``` bash
-git clone https://github.com/plaid/quickstart.git
-cd quickstart/node
 npm install
 
-# Start the Quickstart with your API keys from the Dashboard
+# Start the PersonalFinance manager with your API keys from the Dashboard
 # https://dashboard.plaid.com/account/keys
 #
 # PLAID_PRODUCTS is a comma-separated list of products to use when initializing
